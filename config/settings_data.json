@@ -151,8 +151,8 @@
     },
     "content_for_index": [],
     "blocks": {
-      "17626490156485952974": {
-        "type": "shopify://apps/3d-seasonal-effects/blocks/app-embed/5881d1f8-9311-46cf-bb7d-8ebd2e22859c",
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
       }
