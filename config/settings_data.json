@@ -155,6 +155,11 @@
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
+      },
+      "8422208728415133036": {
+        "type": "shopify://apps/geoquote/blocks/geo-quote/019a3c6d-5465-72cb-8e08-653e6f1f1200",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
