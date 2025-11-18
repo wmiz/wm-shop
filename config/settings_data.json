@@ -158,8 +158,10 @@
       },
       "8422208728415133036": {
         "type": "shopify://apps/geoquote/blocks/geo-quote/019a3c6d-5465-72cb-8e08-653e6f1f1200",
-        "disabled": false,
-        "settings": {}
+        "disabled": true,
+        "settings": {
+          "disable_buy_it_now": true
+        }
       }
     }
   },
