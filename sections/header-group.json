@@ -49,29 +49,10 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
-    },
-    "176482249876cdb34f": {
-      "type": "apps",
-      "blocks": {
-        "ostix_contact_form_VtDdtp": {
-          "type": "shopify://apps/ostix/blocks/contact_form/019ae798-03a7-7bbd-9573-37dd95a028cf",
-          "settings": {
-            "heading": "Contact Us",
-            "description": "<p>Send us a message and we'll get back to you as soon as possible.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "ostix_contact_form_VtDdtp"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "176482249876cdb34f"
+    "header"
   ]
 }
